@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=kpbaks&count_private=true&show_icons=true&theme=transparent)](https://github.com/kpbaks)
+[![kpbaks's github stats](https://github-readme-stats.vercel.app/api?username=kpbaks&count_private=true&show_icons=true&theme=transparent)](https://github.com/kpbaks)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpbaks&hide=html,css,jupyter+notebook)](https://github.com/kpbaks)
 
