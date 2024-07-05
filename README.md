@@ -1,9 +1,21 @@
 ## Hi there 👋
 
 
-[![kpbaks's github stats](https://github-readme-stats.vercel.app/api?username=kpbaks&count_private=true&show_icons=true&theme=transparent)](https://github.com/kpbaks)
+<!-- [![kpbaks's github stats](https://github-readme-stats.vercel.app/api?username=kpbaks&count_private=true&show_icons=true&theme=transparent)](https://github.com/kpbaks) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpbaks&hide=html,css,jupyter+notebook)](https://github.com/kpbaks)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpbaks&hide=html,css,jupyter+notebook&langs_count=8&layout=compact)](https://github.com/kpbaks) -->
+
+<a href="https://github.com/kpbaks">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kpbaks&count_private=true&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/kpbaks">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpbaks&hide=html,css,jupyter+notebook&langs_count=8&layout=compact&card_width=320" />
+</a>
+
+### Dotfiles
+
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kpbaks&repo=nixos-config)](https://github.com/kpbaks/nixos-config)
 
 ### Master Thesis Project
 
